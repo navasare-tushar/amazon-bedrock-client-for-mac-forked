@@ -6,7 +6,7 @@
 	objectVersion = 56;
 	objects = {
 
-/* Begin PBXBuildFile section */
+/* Begin PBXBuildFile section*/
 		7907BEAA2ACD87A200C4D500 /* Amazon_Bedrock_Client_for_MacTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7907BEA92ACD87A200C4D500 /* Amazon_Bedrock_Client_for_MacTests.swift */; };
 		7907BEB42ACD87A200C4D500 /* Amazon_Bedrock_Client_for_MacUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7907BEB32ACD87A200C4D500 /* Amazon_Bedrock_Client_for_MacUITests.swift */; };
 		7907BEB62ACD87A200C4D500 /* Amazon_Bedrock_Client_for_MacUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7907BEB52ACD87A200C4D500 /* Amazon_Bedrock_Client_for_MacUITestsLaunchTests.swift */; };
